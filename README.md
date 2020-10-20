@@ -15,8 +15,7 @@
 # Block diagram
 ![alt text](https://github.com/santosh-kumar8367/chatbotVit1/blob/main/Blockdiagram.jpeg?raw=true)
 # Youtube link
-<br/>https://www.youtube.com/watch?v=7WUoWtadAoA&feature=youtu.be
-
+<br/>https://youtu.be/u96DfbvYhw8
 # Resource links: <br/>
  ## Story links:-
 ###### Story for kids  --------> https://www.freechildrenstories.com/raymond-mayweather-and-the-blue-planet#:~:text=Raymond%20Mayweather%20had%20tuned%20up,course%2C%20for%20an%20unchartered%20place.&text=He%20lowered%20his%20ship%20to,didn't%20have%20much%20luck.
